@@ -1,0 +1,8 @@
+# Python
+backend/venv/
+
+# Node
+frontend/node_modules/
+
+# Environment
+.env
